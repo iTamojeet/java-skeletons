@@ -24,6 +24,6 @@ class Employee {
             }
         }
 
-        System.out.println("The highest-paid employee is: " + highestPaid.getName()+" and his salary is ₹"+highestPaid.getSalary());
+        System.out.println("The highest-paid employee is: " + highestPaid.getName()+" and his/her salary is ₹"+highestPaid.getSalary());
     }
 }
